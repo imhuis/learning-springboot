@@ -22,6 +22,7 @@
         <module>context-hierarchy-demo</module>
 
         <module>complex-mvc-demo</module>
+        <module>resttemplate-demo</module>
     </modules>
 
     <properties>
