@@ -21,6 +21,7 @@
         <module>connection-pool</module>
         <module>jdbc-demo</module>
         <module>context-hierarchy-demo</module>
+        <module>springbucks</module>
 
         <module>complex-mvc-demo</module>
         <module>resttemplate-demo</module>
