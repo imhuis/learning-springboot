@@ -6,12 +6,13 @@
         <groupId>org.imhui</groupId>
         <artifactId>boot</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath/> <!-- lookup parent from repository -->
+        <relativePath>../pom.xml</relativePath> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.imhui</groupId>
     <artifactId>connection-pool</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>connection-pool</name>
+    <packaging>jar</packaging>
     <description>Demo project for Spring Boot</description>
 
     <properties>
